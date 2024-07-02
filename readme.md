@@ -1,4 +1,13 @@
 # CommonJS Modules
+## Instalação
+
+Para instalar o projeto use:
+```
+git clone https://github.com/MarlonnLima/NodeJS-CommonJS-Modules.git
+```
+
+Dentro da pasta de instação rode o comando npm run start para iniciar o projeto.
+## O projeto
 Esse projeto foi feito para testar os módulos common JS. Basicamente cada arquivo é um módulo podemos exportar e importar esses dados 
 
 Exemplo de exportação:
